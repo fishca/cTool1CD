@@ -40,3 +40,4 @@
 # debug information files
 *.dwo
 win32
+.vscode
